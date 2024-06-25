@@ -46,6 +46,8 @@ To build your dataset, download only the **train images** from kitti and make tw
 
 **terminal usage:**
 
+**we offer pretrained weights in our releases page**
+
 train:
 
 ```
